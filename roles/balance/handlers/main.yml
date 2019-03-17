@@ -1,3 +1,0 @@
----
- - name: Restart nginx balancing container
-   service: name=balance state=restarted
